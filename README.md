@@ -4,7 +4,7 @@ Clone https://www.wikimedia.org/ -->
 
 # Project Summary
 
-In this project you will need to use the html and css skills you have learned so far and create a clone of the Wikimedia site. You will need to create it from scratch. You will not be given a startup file structure, you will need to create it yourself. The link to the webpage will be included in the instructions. Good Luck!
+In this project you will need to use the html and css skills you have learned so far and create a clone of the Wikimedia site. You will need to create it from scratch. You will not be given a startup file structure, you will need to create it yourself. Make sure that you make the site responsive. The link to the webpage will be included in the instructions. Good Luck!
 
 ## Setup
 
@@ -20,6 +20,7 @@ Use your HTML and CSS skills to clone the Wikimedia site. Link in the instructio
 ### Instructions
 
 * Clone the Wikimedia site. Link here: https://www.wikimedia.org/
+* Be sure to make it responsive.
 
 ## Contributions
 
